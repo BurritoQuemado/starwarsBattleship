@@ -1,0 +1,11 @@
+{
+  "name": "battleship-backend",
+  "version": "1.0.0",
+  "description": "backend of a simple battleship game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "diego flores",
+  "license": "ISC"
+}
